@@ -1,0 +1,5 @@
+text = input()
+char_list = list(text)
+char_list.sort()
+result = "".join(char_list)
+print(result)
