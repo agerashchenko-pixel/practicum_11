@@ -18,4 +18,3 @@ for word in text:
 
 print(total_holes, total_no_holes)
 print(special_words)
-
